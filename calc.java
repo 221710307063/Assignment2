@@ -1,6 +1,6 @@
 import java.io.*;
   
-class Multiplication {
+class Calculation {
     public static void main(String[] args)
     {
         // initializing variables

@@ -4,7 +4,7 @@ class Calculation {
     public static void main(String[] args)
     {
         // initializing variables
-        int num1 = 20, num2 = 10, mult = 0;
+        int num1 = 20, num2 = 10, mult = 0, div = 0;
   
         // Displaying num1 and num2
         System.out.println("num1 = " + num1);
